@@ -2,7 +2,7 @@ const products = [
     {
         _id:"1",
         name:"aksfhd;asdgas;d",
-        image:'./images/airpods.jpg',
+        image:'/images/airpods.jpg',
         description:"kjfhkasdfhasfjsadlfsahkf",
         brand:"Apple",
         category:'Electronics',
